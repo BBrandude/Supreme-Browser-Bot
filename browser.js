@@ -26,18 +26,18 @@ const profile = {
 
   //shipping and billing
   name: 'John Doe',
-  email: 'carminesupreme12@gmail.com',
+  email: 'john@gmail.com',
   telephone: '6462075111',
-  address: '41 River Terrace',
+  address: '41 John Street',
   address2: 'apt. 1',
-  zip: '10282',
+  zip: '10001',
   city: 'New York',
   state: 'NY',
   country: 'USA',
-  cardnumber: '5313674694484398',
+  cardnumber: '1234123412341234',
   expmonth: '08',
   expyear: '2027',
-  cvv: '555',
+  cvv: '111',
 };
 
 
